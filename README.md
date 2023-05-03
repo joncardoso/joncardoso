@@ -29,7 +29,7 @@
   •
   <a href="https://justicapro.com.br">justiça.pro</a>
   •
-  [ <a href="https://joncardoso.com/">JONCARDOSO.COM</a> ]
+  <b>[ <a href="https://joncardoso.com/">JONCARDOSO.COM</a> ]</b>
 </p>
 
 
