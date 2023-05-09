@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://joncardoso.com.br/">Jon Cardoso</a> Site oficial</h1><br>
+<h1 align="center"><a href="https://joncardoso.com.br/">JonCardoso.com</a> Site oficial</h1><br>
 
 <p align="center">
   <a href="https://joncardoso.com.br/">
